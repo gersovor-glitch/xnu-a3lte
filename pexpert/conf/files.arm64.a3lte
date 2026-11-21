@@ -1,0 +1,14 @@
+OPTIONS/gprof                    optional gprof
+
+pexpert/arm64/pe_init.c                  standard
+pexpert/arm64/pe_identify_machine.c      standard
+pexpert/arm64/a3lte/platform.c           standard
+pexpert/arm64/a3lte/uart.c               standard
+pexpert/arm64/a3lte/cpu.c                standard
+pexpert/arm64/a3lte/sdhci.c              standard
+pexpert/arm64/a3lte/pmic.c               standard
+pexpert/arm64/a3lte/display.c            standard
+pexpert/arm64/a3lte/touch.c              standard
+osfmk/arm64/pmap.c                       standard
+osfmk/arm64/gic.c                        standard
+osfmk/arm64/timer.c                      standard
